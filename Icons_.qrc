@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icones/download.png</file>
+    <file>icones/search.png</file>
+    <file>icones/Refriparts 1.png</file>
+    <file>icones/x.png</file>
+    <file>icones/Refriparts 2.png</file>
+    <file>icones/Refriparts_icon.png</file>
+    <file>icones/Refriparts.png</file>
+    <file>icones/dollar-sign.png</file>
+    <file>icones/edit.png</file>
+    <file>icones/help-circle-_1_.png</file>
+    <file>icones/home-_1_.png</file>
+    <file>icones/menu.png</file>
+    <file>icones/Logo_Refriparts.webp</file>
+    <file>icones/whatsApp.png</file>
+  </qresource>
+</RCC>
